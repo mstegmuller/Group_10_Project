@@ -9,6 +9,4 @@ The database will be stored in PostgreSQL using pgAdmin4.
 The machine learning model will be developed in SciKitLearn. Linear regression, logistic regression, and decision tree models will be built to predict which neighborhoods within the five boroughs of New York are the most susceptible to gentrification.
 
 ## Dashboard
-The visualizations will be integrated into HTML, JavaScript, and Tableau.
-
-The web presentation will be hosted on Heroku and Flask
+The code for the dashboard will be developed on a local drive using JavaScript and HTML, and the completed web presentation will be hosted on Heroku. Visualizations will be created with Mapbox and Tableau and integrated into the web presentation.
