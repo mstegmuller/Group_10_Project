@@ -1,1 +1,2 @@
 A full ERD may not be too useful until we narrow our scope. If we continue to focus on gentrification in NYC, we can drop all of the data from other states from multiple csv files. I would predict that the main relationship between the different tables would be the location, whether that means town name or county name or zip code.
+
