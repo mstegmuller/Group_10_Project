@@ -193,3 +193,13 @@ LEFT JOIN brookyln_sales_prices as bk ON bx.BOROUGH = bk.BOROUGH
 LEFT JOIN manhattan_sales_prices as mh ON bk.BOROUGH = mh.BOROUGH
 LEFT JOIN queens_sales_prices as qn ON mh.BOROUGH = qn.BOROUGH
 LEFT JOIN staten_island_sales_prices as si ON qn.BOROUGH = si.BOROUGH
+
+-- another attempt
+SELECT * FROM bronx_sales_prices
+UNION brookyln_sales_prices
+SELECT * FROM brookyln_sales_prices
+UNION manhattan_sales_prices
+SELECT * FROM manhattan_sales_prices
+UNION queens_sales_prices
+SELECT * FROM queens_sales_prices
+UNION staten_island_sales_prices;
