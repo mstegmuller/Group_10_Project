@@ -3,13 +3,22 @@
 ## Deliverable 1
 
 ### Topic
-Gentrification in New York City
+Housing Market in New York City
 
 ### Reason for Topic Selection
-Increasing awareness of gentrification is more important than ever. New York City, in particular, is seeing the benefits and damage of the city's gentrification. Some of these benefits include real estate prices, population size, median household income, educational attainment, the rental market are increasing. On the other hand, long-time residents can no longer afford to live in their neighborhoods and small businesses are being pushed out by large corporations. Gentrification is a complex topic, and predicting it can be useful in ensuring equitable development. 
+The housing market is hot in New York City. We are interested in exploring and potentially predicting how housing prices will increase over time. Since, New York City is a diverse city made up of very different neighborhoods (Brooklyn, the Bronx, Manhattan, Queens, and Staten Island), we are going to break down and compare them.
 
 ### Questions to be Explored
-How can gentrification be predicted?
-What type of indicators contribute to gentrification?
-What areas of New York City can be expected to gentrify next?
-What is the history of the housing market to date and what may it look like in the future?
+What does the housing market look like in New York City as a whole?
+What does the housing market look like in each of the 5 neighborhoods: Brooklyn, the Bronx, Manhattan, Queens, and Staten Island?
+How do they compare to each other?
+Can we predict how housing prices will change over time?
+
+### Roles
+- Square: Mike
+- Triangle: Rena
+- Circle: Daniel
+- X: Emery
+
+
+## Deliverable 2 (**Square role**)
