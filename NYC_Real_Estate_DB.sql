@@ -11,7 +11,6 @@ CREATE TABLE bronx_sales_prices (
 	 MAXIMUM_SALE_PRICE INT NOT NULL
 );
 
-
 CREATE TABLE brookyln_sales_prices (
      BOROUGH TEXT NOT NULL,
      NEIGHBORHOOD VARCHAR NOT NULL,
@@ -22,7 +21,6 @@ CREATE TABLE brookyln_sales_prices (
 	 MEDIAN_SALE_PRICE INT NOT NULL,
 	 MAXIMUM_SALE_PRICE INT NOT NULL
 );
-
 
 CREATE TABLE manhattan_sales_prices (
      BOROUGH TEXT NOT NULL,
@@ -35,7 +33,6 @@ CREATE TABLE manhattan_sales_prices (
 	 MAXIMUM_SALE_PRICE INT NOT NULL
 );
 
-
 CREATE TABLE queens_sales_prices (
      BOROUGH TEXT NOT NULL,
      NEIGHBORHOOD VARCHAR NOT NULL,
@@ -46,7 +43,6 @@ CREATE TABLE queens_sales_prices (
 	 MEDIAN_SALE_PRICE INT NOT NULL,
 	 MAXIMUM_SALE_PRICE INT NOT NULL
 );
-
 
 CREATE TABLE staten_island_sales_prices (
      BOROUGH TEXT NOT NULL,
@@ -82,7 +78,6 @@ ON mh.BOROUGH = qn.BOROUGH
 FULL JOIN
 staten_island_sales_prices as si
 ON qn.BOROUGH = si.BOROUGH
-
 
 
 -- ATTEMPLED Joining bronx_sales_prices, brookyln_sales_prices, manhattan_sales_prices, queens_sales_prices, and staten_island_sales_prices tables
