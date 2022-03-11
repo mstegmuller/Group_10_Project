@@ -10,7 +10,7 @@ CREATE TABLE bronx_annual_sales20 (
 	SALE_PRICE INT 
 );
 
-DROP TABLE bronx_annual_sales20;
+-- DROP TABLE bronx_annual_sales20;
 
 CREATE TABLE brooklyn_annual_sales20 (
 	YEAR_COLLECTED INT NOT NULL,
@@ -24,7 +24,7 @@ CREATE TABLE brooklyn_annual_sales20 (
 	SALE_PRICE INT 
 );
 
-DROP TABLE brooklyn_annual_sales20;
+-- DROP TABLE brooklyn_annual_sales20;
 
 CREATE TABLE manhattan_annual_sales20 (
 	YEAR_COLLECTED INT NOT NULL,
@@ -38,7 +38,7 @@ CREATE TABLE manhattan_annual_sales20 (
 	SALE_PRICE INT  
 );
 	
-DROP TABLE manhattan_annual_sales20;	
+-- DROP TABLE manhattan_annual_sales20;	
 
 CREATE TABLE queens_annual_sales20 (
 	YEAR_COLLECTED INT NOT NULL,
@@ -52,7 +52,7 @@ CREATE TABLE queens_annual_sales20 (
 	SALE_PRICE INT 
 );
 
-DROP TABLE queens_annual_sales20;	
+-- DROP TABLE queens_annual_sales20;	
 
 CREATE TABLE staten_island_annual_sales20 (
 	YEAR_COLLECTED INT NOT NULL,
@@ -66,7 +66,7 @@ CREATE TABLE staten_island_annual_sales20 (
 	SALE_PRICE INT 
 );
 
-DROP TABLE staten_island_annual_sales20;
+-- DROP TABLE staten_island_annual_sales20;
 
 CREATE TABLE all_boro_sales_2020 (
     YEAR_COLLECTED INT NOT NULL,
