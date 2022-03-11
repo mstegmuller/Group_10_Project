@@ -68,7 +68,3 @@ SELECT * FROM manhattan_sales_prices
 UNION queens_sales_prices
 SELECT * FROM queens_sales_prices
 UNION staten_island_sales_prices;
-
-
-
-
