@@ -22,3 +22,8 @@ Can we predict how housing prices will change over time?
 
 
 ## Deliverable 2 (**Square role**)
+
+
+## Deliverable 3
+
+This presentation helps to paint the picture of what the current New York City housing market looks like and what it may look like in the future.
