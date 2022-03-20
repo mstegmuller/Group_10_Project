@@ -24,6 +24,6 @@ Can we predict how housing prices will change over time?
 ## Deliverable 2 (**Square role**)
 
 
-## Deliverable 3
+## Deliverable 3 (**Triangle role**)
 
 This [presentation](https://docs.google.com/presentation/d/1SCNQw7wq-qost3Kfdspk1_hOonAOUSTt/edit?usp=sharing&ouid=109781864509714690763&rtpof=true&sd=true) helps to paint the picture of what the current New York City housing market looks like and what it may look like in the future.
