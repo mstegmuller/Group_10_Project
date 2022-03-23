@@ -1,1 +1,1 @@
-db_password="Peteypete02202018!"
+db_password="password"
