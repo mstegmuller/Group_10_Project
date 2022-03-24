@@ -1,6 +1,6 @@
 # Group_10_Project
 
-## Deliverable 1
+
 
 ### Topic
 Housing Market in New York City
