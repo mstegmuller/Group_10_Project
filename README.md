@@ -19,7 +19,7 @@ Can we predict how housing prices will change over time?
 Our group was composed of four team members, Mike Stegmuller, Rena Pinhas, Daniel Martin and Emery Varga. 
 For this project, we first had to decide what data we wanted to use.  We decided to use data from csv’s directly from the US census.  Then we had to decide how to visualize and apply the information.     
 
-Rena’s primary roles were to develop a mock-up of the machine learning models and to create the final database. For the mockup machine learning, she developed code for different machine learning models that could have potentially been applicable to our topic depending on how we wanted to approach answering our questions. She wrote code for a linear regression model, logistic regression model, and decision tree model. However, after further discussion with the team, only the linear regression model was pursued. Additionally, she wrote code for how we would connect to a PostgreSQL database, which was later tweaked once we finalized our files.
+Rena’s primary roles were to develop a mock-up of the machine learning models and to create the final database. For the mockup machine learning, she developed code for different machine learning models that could have potentially been applicable to our topic depending on how the group wanted to approach answering our questions. She wrote code for a linear regression model, logistic regression model, and decision tree model. However, after further discussion with the team, only the linear regression model was pursued. Additionally, she wrote code for how we would connect to a PostgreSQL database, which was later tweaked once we finalized our files.
 
 ![Rene Pic 1](https://user-images.githubusercontent.com/92127589/159948624-4cbb1a91-12f2-406b-9f88-2d6c4d11c4ae.PNG)
 
@@ -37,7 +37,7 @@ What was interesting with the data was that there were some outliers in the data
 ![Bronx Before](https://user-images.githubusercontent.com/92127589/159949915-1ced231d-5e6d-4ca8-b63c-e85964c3d822.PNG)
 ![Bronx After](https://user-images.githubusercontent.com/92127589/159949935-3665249e-dfe7-44db-a984-7d3334f76413.PNG)
 
-Daniel Martin oversaw the visualizations.  To create his visualizations, he used plotly and spent time learning seaborn.  It was his first time using seaborn.  He learned new and helpful visualization techniques that really made the figures stand out.   In order to make the information easier to read he used the df.loc method to number the boroughs which in turn was easier to illustrate on the various charts that were made.      
+Daniel Martin oversaw the visualizations.  To create his visualizations, he used plotly and spent time learning seaborn.  It was his first time using seaborn.  He learned new and helpful visualization techniques that really made the figures stand out.   In order to make the information easier to read he used the df.loc method to number the boroughs which in turn was easier to illustrate on the various charts that were made.  The fig.write_html tool used to make his graphs and charts html accessible were very important when transfering the files to the website.        
 
 ![Dan Pic](https://user-images.githubusercontent.com/92127589/159950003-4ce1bc36-6b76-4641-b872-ebd9a7076960.PNG)
 
