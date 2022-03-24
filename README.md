@@ -42,7 +42,7 @@ Daniel Martin oversaw the visualizations.  To create his visualizations, he used
 ![Dan Pic](https://user-images.githubusercontent.com/92127589/159950003-4ce1bc36-6b76-4641-b872-ebd9a7076960.PNG)
 
 
-Emery Varga was in charge of building the website.  She enjoyed the challenge of working with HTML while building the website.  She had to work with multiple HTML pages.  She created the website and properly integrated multiple HTML pages and graphs and charts.   After discussing with the team on which charts and graphs should be used, she utilized #<li /> list to properly show the order of the charts the group wanted to use.    
+Emery Varga was in charge of building the website.  She enjoyed the challenge of working with HTML while building the website.  She had to work with multiple HTML pages.  She created the website and properly integrated multiple HTML pages and graphs and charts.   After discussing with the team on which charts and graphs should be used, she utilized list tag properly show the order of the charts the group wanted to use.    
 
 
 ![Emery Pic](https://user-images.githubusercontent.com/92127589/159950042-666dab08-8686-4c11-8e9d-7971c9e8e781.PNG)
