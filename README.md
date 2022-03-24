@@ -46,12 +46,12 @@ Daniel Martin oversaw the visualizations.  To create his visualizations, he used
 ![Dan Pic](https://user-images.githubusercontent.com/92127589/159950003-4ce1bc36-6b76-4641-b872-ebd9a7076960.PNG)
 
 
-Emery Varga was in charge of building the website.  She enjoyed the challenge of working with HTML while building the website.  She had to work with multiple HTML pages.  She created the website and properly integrated multiple HTML pages and graphs and charts.   After discussing with the team on which charts and graphs should be used, she utilized list tag properly show the order of the charts the group wanted to use.    
+Emery Varga was in charge of creating the website.  She enjoyed the challenge of building an interactive dashboard using HTML and integrating the visualizations into multiple different pages. The website included four separate pages including the main landing page, two pages featuring charts and tables, and a page featuring each group member as well as their LinkedIn pages. After discussing with the team on which charts and graphs should be used, she utilized list tag properly show the order of the charts the group wanted to use.    
 
 
 ![Emery Pic](https://user-images.githubusercontent.com/92127589/159950042-666dab08-8686-4c11-8e9d-7971c9e8e781.PNG)
 
-Conclusion
+### Conclusion
 Based upon the results of the analysis we can come up with a few conclusions.  The borough of Manhattan had the most expensive sale prices based on the square footage of a property, while the Bronx was the least expensive.  Residential properties in Manhattan were smaller and more expensive than any of the other boroughs. Manhattan also has significantly less available properties, which leads to an increase in demand with higher price tags for what is available.  Queens had the most properties for sale.  Queens also had a good mix of large rental properties and residential houses for sale.  Brooklyn similarly to queens has a good mix of large rental properties and residential houses.  Staten Island seems to have a smaller, one- or two-family properties as opposed to larger multi family properties.      
 
 As far as predicting how the sales price will change over time, our models will give us a mostly accurate prediction.  It will not be perfect as things like inflation and other factors could change the market.  We could also use more of a sample size of information.  An example would be using sale data from the past 5 years.  If we had more time, that is something that we would like to look at more.    
