@@ -5,6 +5,10 @@
 ### Topic
 Housing Market in New York City
 
+## Link to Website
+
+https://mstegmuller.github.io/Group_10_Project/Dashboard/
+
 ### Reason for Topic Selection
 The housing market is hot in New York City. We are interested in exploring and potentially predicting how housing prices will increase over time. Since, New York City is a diverse city made up of very different neighborhoods (Brooklyn, the Bronx, Manhattan, Queens, and Staten Island), we are going to break down and compare them.
 
