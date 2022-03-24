@@ -20192,8 +20192,9 @@ code {
 }
 
 .card-people {
-  position: relative;
-  padding-top: 20px;
+  position: absolute;
+  padding-top: 0px;
+  padding-right: 20px;
 }
 
 .card-people img {
@@ -22096,6 +22097,11 @@ code {
 
 .card.card-light-blue {
   background: #7978E9;
+  color: #ffffff;
+}
+
+.card.card-light-success {
+  background: #4CB27F;
   color: #ffffff;
 }
 
