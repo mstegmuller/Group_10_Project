@@ -17,7 +17,7 @@ Can we predict how housing prices will change over time?
 ### Roles
 
 Our group was composed of four team members, Mike Stegmuller, Rena Pinhas, Daniel Martin and Emery Varga. 
-For this project, we first had to decide what data we wanted to use.  We decided to use data from csv’s directly from the US census.  Then we had to decide how to visualize and apply the information.  After we split our roles, we got to work.   
+For this project, we first had to decide what data we wanted to use.  We decided to use data from csv’s directly from the US census.  Then we had to decide how to visualize and apply the information.     
 
 Rena’s primary roles were to develop a mock-up of the machine learning models and to create the final database. For the mockup machine learning, she developed code for different machine learning models that could have potentially been applicable to our topic depending on how we wanted to approach answering our questions. She wrote code for a linear regression model, logistic regression model, and decision tree model. However, after further discussion with the team, only the linear regression model was pursued. Additionally, she wrote code for how we would connect to a PostgreSQL database, which was later tweaked once we finalized our files.
 
