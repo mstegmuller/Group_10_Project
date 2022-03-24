@@ -37,7 +37,7 @@ What was interesting with the data was that there were some outliers in the data
 ![Bronx Before](https://user-images.githubusercontent.com/92127589/159949915-1ced231d-5e6d-4ca8-b63c-e85964c3d822.PNG)
 ![Bronx After](https://user-images.githubusercontent.com/92127589/159949935-3665249e-dfe7-44db-a984-7d3334f76413.PNG)
 
-Daniel Martin oversaw the visualizations.  To create his visualizations, he used plotly and spent time learning seaborn.  It was his first time using seaborn.  He learned new and helpful visualization techniques that really made the figures stand out.   In order to make the information easier to read he used the df.loc method to number the boroughs which in turn was easier to illustrate on the various charts that were made.  The fig.write_html tool used to make his graphs and charts html accessible were very important when transfering the files to the website.        
+Daniel Martin oversaw the visualizations.  To create his visualizations, he used plotly and spent time learning seaborn.  It was his first time using seaborn.  He learned new and helpful visualization techniques that really made the figures stand out.   In order to make the information easier to read he used the df.loc method to number the boroughs.  This made it easier to illustrate on the various charts that were made.  The fig.write_html tool used to make his graphs and charts html accessible were very important when transfering the files to the website.        
 
 ![Dan Pic](https://user-images.githubusercontent.com/92127589/159950003-4ce1bc36-6b76-4641-b872-ebd9a7076960.PNG)
 
