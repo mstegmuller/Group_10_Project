@@ -1,0 +1,58 @@
+Bar Charts:
+
+Bar1:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/bar1.html
+
+Bar2:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/bar2.html
+
+Bar3:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/bar3.html
+
+Bar4:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/bar4.html
+
+
+Scatter Plots:
+
+Scatter1:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/scatter1.html
+
+Scatter2:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/scatter2.html
+
+Scatter3:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/scatter3.html
+
+
+Sunburst Plots (similar to pie charts):
+
+Sunburst1:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/sunburst1.html
+
+Sunburst2:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/sunburst2.html
+
+Sunburst3:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/sunburst3.html
+
+
+Tree Diagrams:
+
+Tree1:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/tree1.html
+
+Tree2:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/tree2.html
+
+Tree3:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/tree3.html
+
+
+Violin Plots:
+
+Violin1:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/violin1.html
+
+Violin2:
+https://mstegmuller.github.io/Group_10_Project/Visualizations/Charts%20and%20Graphs/violin2.html
